@@ -2,11 +2,11 @@ package Servicio;
 
 public class Moneda {
 
-    public final double cotizacion_Dolar = 371.00;
-    public final double cotizacion_Euro = 210.83;
-    public final double cotizacion_Libras = 237.99;
-    public final double cotizacion_Yen = 1.46;
-    public final double cotizacion_Won = 9.58;
+    private final double cotizacion_Dolar = 371.00;
+    private final double cotizacion_Euro = 210.83;
+    private final double cotizacion_Libras = 237.99;
+    private final double cotizacion_Yen = 1.46;
+    private final double cotizacion_Won = 9.58;
 
     public Moneda() {
     }
